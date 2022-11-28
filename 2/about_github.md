@@ -7,4 +7,4 @@
 Более подробно вы можете прочитать о **GitHub** вы можете прочитать [тут][1] или [здесь][2]
 
 [1]: https://ru.wikipedia.org/wiki/GitHub "WIKI"
-[2]: (https://github.com/about) "GitHub"
+[2]: https://github.com/about "GitHub"
